@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978060351931",
+    "project_id": "presence-4ac89",
+    "storage_bucket": "presence-4ac89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978060351931:android:3647904d450a82d1008c9e",
+        "android_client_info": {
+          "package_name": "com.frans.presence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978060351931-m4k6ii06u8pnfj3tdubav8j1dhvgiaha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaKiQWG1e5kL5L8p1AKVTjAZgquhC7L4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978060351931-m4k6ii06u8pnfj3tdubav8j1dhvgiaha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
